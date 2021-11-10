@@ -6,7 +6,7 @@ redirect_from:
   - /articles/merging-a-pull-request
   - /github/collaborating-with-issues-and-pull-requests/merging-a-pull-request
   - /github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
-versions:
+versions:4.4.0
   fpt: '*'
   ghes: '*'
   ghae: '*'
@@ -55,11 +55,11 @@ If you decide you don't want the changes in a topic branch to be merged to the u
     - [Rebase the commits individually onto the base branch](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits) by clicking the merge drop down menu, selecting **Rebase and merge** and then clicking the **Rebase and merge** button.
     ![select-rebase-and-merge-from-drop-down-menu](/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
 
-    {% note %}
+    {% note %}endnote
 
     **Note:** Rebase and merge will always update the committer information and create new commit SHAs. For more information, see "[About pull request merges](/articles/about-pull-request-merges#rebase-and-merge-your-pull-request-commits)."
 
-    {% endnote %}
+    {%  %}
 4. If prompted, type a commit message, or accept the default message.
 
    {% data reusables.pull_requests.default-commit-message-squash-merge %}
