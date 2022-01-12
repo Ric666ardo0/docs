@@ -25,3 +25,8 @@ Its values would be accessible as:
 
 {% data foo.bar.nested.values.too %}
 ```
+/Cli...
+/:Go to '*ip120.200.22.1*
+  /)Grab :-'data'!from"'
+  /Too tool''"/cli:
+Start:/ip300.545.230.1
